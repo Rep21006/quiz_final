@@ -21,5 +21,5 @@ Tailwind CSS: Utility-first CSS framework for styling the application.
 
 React Router: Library for routing and navigation between pages.
 
-How to run: npm build then npm start
+How to run: npm install then npm start
 
