@@ -20,3 +20,6 @@ React: JavaScript library for building user interfaces.
 Tailwind CSS: Utility-first CSS framework for styling the application.
 
 React Router: Library for routing and navigation between pages.
+
+How to run: npm build then npm start
+
